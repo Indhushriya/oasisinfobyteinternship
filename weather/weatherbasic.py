@@ -71,7 +71,7 @@ def get_weather(api_key, location):
         console.print(f"[bold red]Error fetching data:[/bold red] {e}")
 
 
-api_key = "32efa51bd8b7c813e7c73c9d2669b0a4"  
+api_key = ""   #api key
 
 print("               🆂 🅺 🆈  🅸 🅽 🆂 🅸 🅶 🅷 🆃")
 print(":-----------------------------------------------------------:")
